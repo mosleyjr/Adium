@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D7C83EC4-A231-48A4-9474-98EE0A3E250E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Adium</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1FB0738E37CC94C17C03370C7EB10EBC177F8D0A</key>
+		<string>https://github.com/mosleyjr/Adium.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Adium.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1FB0738E37CC94C17C03370C7EB10EBC177F8D0A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mosleyjr/Adium.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1FB0738E37CC94C17C03370C7EB10EBC177F8D0A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1FB0738E37CC94C17C03370C7EB10EBC177F8D0A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Adium</string>
+		</dict>
+	</array>
+</dict>
+</plist>
